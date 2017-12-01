@@ -1,12 +1,13 @@
-# Movie trailer app
-Check out the trailers of the famous movies easily.
+#My Fabulous Recipe
+This recipe for **cereal and milk** has been passed down my family for months.
 
-## Requirements:
-1. Python language should be installed correctly.
-2. Any web browser like Google Chrome,Firefox,etc should be installed.
+##Ingredients
+1. cereal(you can find cereals [here](https://www.example.com/coolcereals))
+2. milk
 
-## How to use:
-1. Open the document **fresh_tomates** 
-2. After the list of movies appear on the screen, you may click on anyone to start watching the trailer.
-
-## Enjoy your time!
+##Directions
+ If i were writing these out as _code_, it might look something like this:
+ `if bowl is empty:
+ 	add cereal
+ if bowl only has cereal in it:
+ 	add milk'
