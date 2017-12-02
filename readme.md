@@ -6,7 +6,9 @@ Check out the trailers of the famous movies easily.
 2. Any web browser like Google Chrome,Firefox,etc should be installed.
 
 ## How to use:
-1. Open the document **fresh_tomates** 
-2. After the list of movies appear on the screen, you may click on anyone to start watching the trailer.
-
-## Enjoy your time!
+1. Download the clone or clone the repository.
+2. Open the python file **entertainment_center**.
+3. Run this module.
+4. An html file will open, listing all my favorite movies.
+5. You may click on any movie poster to start watching the trailer.
+6. Enjoy your time!
